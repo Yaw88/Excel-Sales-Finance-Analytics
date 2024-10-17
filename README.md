@@ -12,9 +12,9 @@
 This project is meant to provides sales, market and financial insight into Atliq's data. 
 The purpose is to empower busness to monitor and evaluate sales and financial performance.
 
-**1.** Create a 3 year -[customer performance report](#customerhttps://github.com/Yaw88/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+**1.** Create a 3 year _[customer performance report](https://github.com/Yaw88/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
-**2.**
+**2.** A comprehensive market coomparison_[market performane and sales targets]
 
 
 ### Technology Used
